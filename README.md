@@ -1,4 +1,4 @@
-# Database Systems — Movie and TV Series Monitoring Application
+# Database – Movie and TV Show Tracking Application
 
 > Academic project developed for the Database Systems (BD) course in the Bachelor's in Informatics and Computing Engineering (LEIC) at the Faculty of Engineering, University of Porto (FEUP), academic year 2024/2025.
 
